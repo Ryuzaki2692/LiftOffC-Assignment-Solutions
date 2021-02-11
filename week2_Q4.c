@@ -25,6 +25,6 @@ int main()
                 }
             }
         }
-    printf("%d %d", ar[0], ar[n-1]);
+    printf("The smallest element in this array is %d and the largest element in this array is %d\n", ar[0], ar[n-1]);
     return 0;
 }
